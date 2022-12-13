@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.564">
+  <properties />
+  
+  
+            <testcase name="userShouldNavigateToLoginPageSuccessfully" time="2.605" classname="com.ultimateqa.courses.testsuite.LoginPageTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentials" time="5.959" classname="com.ultimateqa.courses.testsuite.LoginPageTest" />
+      
+</testsuite>
